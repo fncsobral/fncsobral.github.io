@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "PhD Candidate / Physical Oceanographer"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Fernando Sobral"
 description              : &description "MsC"
-url                      : https://fncsobral.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://fncsobral.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/fncsobral/fncsobral.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter: 
-  username               : #"https://twitter.com/SobralFerr"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Fernando Sobral"
-  avatar           : "profile.png"
+  avatar           : "headshot.png"
   bio              : "I am a physical oceanographer both modeller and observational, interested in western boundary currents and eddies processes."
   location         : "Sydney-Australia"
-  employer         :
+  employer         : "UNSW-Sydney"
   # pubmed         : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=tf9kFUAAAAAJ&hl=en"
   email            : "f.sobral@unsw.edu.au"
