@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Sobral-F / Physical Oceanographer"
+title                    : "PhD Candidate / Physical Oceanographer"
 title_separator          : "-"
 name                     : &name "Fernando Sobral"
 description              : &description "personal description"
@@ -56,7 +56,7 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
+twitter: 
   username               : https://twitter.com/SobralFerr
 facebook:
   username               :
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : Fernando Sobral
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Sydney-Australia"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : https://scholar.google.com/citations?user=tf9kFUAAAAAJ&hl=en
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
